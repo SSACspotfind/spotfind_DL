@@ -1,3 +1,8 @@
 .idea
+modeluse_server/templates
+modeluse_server/upImg
 
-modeluse_server
+model_state.pth
+sportinfo.txt
+
+Private_Info
